@@ -1,0 +1,10 @@
+{
+  "name": "dirty-launches",
+  "version": "1.0.0",
+  "title": "Dirty Launches",
+  "author": "Blooha77",
+  "homepage": "https://github.com/DoggoMan/factorio-dirty-launches",
+  "factorio_version": "2.0",
+  "description": "Rocket launches emit huge pollution bursts at the silo. Pollution can be reduced with Cleaner Rocket Exhaust tech.",
+  "dependencies": ["base >= 2.0", "space-age >= 1.0"]
+}
